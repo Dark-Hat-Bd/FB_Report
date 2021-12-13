@@ -1,5 +1,5 @@
-pip3 install colorama==0.4.4
-pip3 install smtplib
-pip3 install random
-pip3 install time
-pip3 install requests==2.26.0
+pip3 install colorama
+pip3 install secure-smtplib
+pip3 install random2
+pip3 install times
+pip3 install requests
